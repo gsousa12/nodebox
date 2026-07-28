@@ -1,3 +1,6 @@
 packages:
   - 'packages/*'
   - 'apps/*'
+
+catalog:
+  typescript: ^7.0.2
