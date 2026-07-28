@@ -1,0 +1,12 @@
+{
+  "name": "nodebox",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r run build",
+    "start:api": "pnpm --filter core start:prod"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}
